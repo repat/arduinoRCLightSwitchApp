@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lights</string>
+    <string name="Stehlampe">Stehlampe</string>
+    <string name="Schreibtischlampe">Schreibtischlampe</string>
+    <string name="LED">Bett LEDs</string>
+    <string name="ToggleButton1">ToggleButton1</string>
+    <string name="ToggleButton2">ToggleButton2</string>
+    <string name="ToggleButton3">ToggleButton3</string>
+
+</resources>
